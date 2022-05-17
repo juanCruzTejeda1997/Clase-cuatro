@@ -1,0 +1,84 @@
+
+
+.container{
+    margin: auto;
+    width: 1296px;
+   
+}
+
+div{
+    
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+
+#uno{
+    padding: 15px 0 15px 0;
+    background-color: gray;
+}
+
+.display{
+    display: flex;
+}
+
+#dos{
+    padding-top:50px;
+    width: 45%;
+    height: 80px;
+     background-color: gray;
+}
+#tres{
+    padding-top:50px;
+    width: 20%;
+    height: 80px;
+    background-color: gray;
+}
+#cuatro{
+    padding-top:50px;
+    width: 35%;
+    height: 80px;
+    background-color: gray;
+}
+
+#cinco{
+    padding-top: 57px;
+    width: 500px;
+    height: 115px;
+    background-color: gray;
+
+}
+#seis{
+    padding-top: 57px;
+    width: 500px;
+    height: 115px;
+    background-color: gray;
+
+}
+
+#siete{
+    width: 100%;
+    padding-top:180px;
+    background-color: gray;
+
+}
+.dis-dos{
+    display: flex;
+    margin: auto;
+}
+.dis-tres{
+    display: flex;
+
+}
+#ocho{
+    width: 50%;
+    height: 175px;
+    background-color: gray;
+    padding-top: 85px;
+}
+
+#nueve{
+    width: 50%;
+    height: 175px;
+    background-color: gray;
+    padding-top: 85px;
+}
